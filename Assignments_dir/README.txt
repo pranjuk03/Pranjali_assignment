@@ -1,3 +1,3 @@
 this is README file
 
-this is html assignment folder
+this is css assignment folder
