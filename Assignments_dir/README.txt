@@ -1,3 +1,7 @@
-this is README file
+Hello this is pranjali
 
-this is html assignment folder
+This is README file
+
+This is css assignment folder
+
+
